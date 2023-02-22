@@ -1,0 +1,36 @@
+/* IDs */
+
+#principal{
+	width: 900px;
+}
+#conteudo{
+	font-family: "Gill Sans", sans-serif;
+	background: #e8e8d9 ;
+	padding: 11px;
+}
+
+/* Class */
+
+body{
+	background: #d2d2c1 url('img/fundo.png');
+}
+a{
+	color: black;
+	font: bold;
+	padding: 6px;
+}
+
+
+.center{
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+	font: bold;
+}
+.menu{
+	padding: 18px;
+	background-color: #c5c5b2;
+	font-family: "Gill Sans", sans-serif;
+}
+.imagens{
+	border: 10px solid #c3c3ae;
+}
